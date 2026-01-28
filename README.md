@@ -11,31 +11,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ![bottom wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/lines.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/FOOTER.svg" />
-</p>
