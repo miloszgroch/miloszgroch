@@ -13,10 +13,29 @@
 ![bottom wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/lines.svg" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/FOOTER.svg" />
+</p>
