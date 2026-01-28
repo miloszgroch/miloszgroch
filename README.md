@@ -6,21 +6,12 @@
 
 ## 🌐 Socials & Contact:
 
-<p align="center">
+## 🌐 Socials:
 
-  <a href="https://www.linkedin.com/in/milosz-groch/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:grochmilosz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height="60">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosz-groch/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:grochmilosz@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=notion&logoColor=white)](https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=74)
 
-</p>
 
 
 
