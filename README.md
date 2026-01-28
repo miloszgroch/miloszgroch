@@ -6,8 +6,6 @@
 
 ## 🌐 Socials & Contact:
 
-## 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosz-groch/) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:grochmilosz@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=notion&logoColor=white)](https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=74)
