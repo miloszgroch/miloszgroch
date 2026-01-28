@@ -6,9 +6,23 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosz-groch/) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:grochmilosz@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=notion&logoColor=white)](https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=74)
+<!-- Socials Footer -->
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/milosz-groch/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="45" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:grochmilosz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" height="45" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=notion&logoColor=white" height="45" alt="Portfolio">
+  </a>
+
+</p>
+
 
 
 # 💻 Tech Stack:
