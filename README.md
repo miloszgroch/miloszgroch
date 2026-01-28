@@ -4,19 +4,21 @@
 <br> 🧬 Education: M.E. in Bioinformatics.
 
 
-## 🌐 Socials:
+## 🌐 Socials & Contact:
 <p align="center">
+
   <a href="https://www.linkedin.com/in/milosz-groch/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="90" alt="LinkedIn" style="vertical-align: middle;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="90" height="90" alt="LinkedIn" style="margin: 0 30px;">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:grochmilosz@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="90" alt="Email" style="vertical-align: middle;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="90" height="90" alt="Email" style="margin: 0 30px;">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://milosz-groch-datascience.notion.site/Hi-I-m-Milosz-195e3ed41cd88067a54fe91523c21b05?pvs=4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/notion.svg" width="90" alt="Portfolio" style="vertical-align: middle;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/notion.svg" width="90" height="90" alt="Portfolio" style="margin: 0 30px;">
   </a>
+
 </p>
 
 
