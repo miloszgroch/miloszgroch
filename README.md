@@ -15,7 +15,7 @@
 
 
 # 💻 Tech Stack:
-## 🧠 Data Science & Machine Learning
+### 🧠 Data Science & Machine Learning
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-## ☁️ Cloud & Tools
+### ☁️ Cloud & Tools
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
